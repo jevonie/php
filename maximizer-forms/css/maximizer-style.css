@@ -1,0 +1,44 @@
+.opt-title{
+    font-size: 18px;
+}
+.analytics-options{
+    margin: -1px 0 5px 0;
+    display: inline-block;
+    padding-top: 5px;
+    float: left;
+}
+/*.error-own{
+    position: absolute;
+    top: 13px;
+    left: 500px;
+}*/
+.dexi .webformlabel {
+    display: inline !important;
+}
+.form-controler-check{
+    padding-left: 5%;
+}
+.container {
+    width: 100%;
+}
+.maximizer-box input[type=checkbox]{
+    margin: 4px 0 0;
+    /*display: none;*/
+    margin-top: 1px\9;
+    line-height: normal;
+}
+.connectedSortable{
+    padding-top: 25px;
+}
+.maximizer-box{
+    cursor: move;
+    position: relative;
+    /*display: block;*/
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+.max-desc-forms{
+    display: inline;
+}
